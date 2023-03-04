@@ -21,7 +21,9 @@
     
 
 ## Alternative resources:
+
 [Youtube](https://www.youtube.com/watch?v=D56hs0Twfco)
+
 [Documentation](https://www.freecodecamp.org/news/how-to-use-figma-to-design-websites/)
 
 
