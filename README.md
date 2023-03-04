@@ -222,9 +222,9 @@ Here are some general steps to follow when using Figma for web design:
 
    * 4.  Design: Once you have your wireframe in place, start designing the visual elements of your website. Use Figma's tools to create buttons, headings, text, and other design elements.
 
-    * 5. Create components: Components in Figma allow you to create reusable design elements that can be used throughout your project. For example, you can create a navigation bar component that you can use on every page of your website.
+   * 5. Create components: Components in Figma allow you to create reusable design elements that can be used throughout your project. For example, you can create a navigation bar component that you can use on every page of your website.
 
-    * 6. Collaborate: Figma is a great tool for collaborating with team members and stakeholders. You can share your designs with others and allow them to leave comments or make edits.
+   * 6. Collaborate: Figma is a great tool for collaborating with team members and stakeholders. You can share your designs with others and allow them to leave comments or make edits.
 
    * 7.  Export: When your design is complete, you can export it as a PNG, SVG, or PDF file. You can also generate code snippets for developers to use when building the website.
 
